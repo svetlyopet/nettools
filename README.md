@@ -5,7 +5,7 @@ installed:
 
 - netcat
 - curl
-- weget
+- wget
 - dig
 - nmap
 - mtr
